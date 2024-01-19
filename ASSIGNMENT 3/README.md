@@ -11,7 +11,4 @@ From my perspective, UTMDigital could enhance Wi-Fi connectivity range and speed
 ## Other Personal Reflections and Ideas 🌟
 During the visit, I observed a positive work environment cultivated by content and collaborative employees. The teamwork at UTMDigital is admirable, with team members consistently supporting one another. Their proactive approach to potential challenges is noteworthy; they have implemented a backup plan in case of server issues, maintaining a backup server in UTM KL for continuity during system downtime at UTM JB. This strategic planning reflects their commitment to maintaining uninterrupted service and underscores the importance of preparedness in the dynamic field of digital technology. 🛡️💡
 
-# YouTube Video Link
-
-[Watch the Video](https://www.youtube.com/watch?v=oEZux86SdWQ&t=231s)
 
